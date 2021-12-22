@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://prabhumarappan.github.io',
-  title: 'JS.',
+  title: 'Py|Go',
 }
 
 const about = {
@@ -9,7 +9,7 @@ const about = {
   name: 'Prabhu Marappan',
   role: 'Backend/Infrastructure Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    "I'm currently doing my Master of Science in Computer Science from Portland State University.\nBefore this I worked as a Software Engineer for 5 years in Backend Development, Infrastructure, System Design and Architecture for distributed web applications.\nEngineer looking to solve interesting engineering and data problems.",
   resume: 'https://www.dropbox.com/s/83tivkrljlye361/Prabhu%20Marappan.pdf?dl=0',
   social: {
     linkedin: 'https://linkedin.com/in/prabhumarappan',
