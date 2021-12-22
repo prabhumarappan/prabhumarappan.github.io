@@ -49,23 +49,34 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'Python',
+  'Go',
+  'Javascript',
+  'Java',
+  'SQL',
+  'C',
+  'PostgreSQL',
+  'MongoDB',
+  'Redis',
+  'InfluxDB',
+  'Node.js',
+  'Express.js',
+  'Flask',
+  'RESTful',
+  'Vue.js',
+  'Amazon Web Services (AWS)',
+  'Google Cloud Platform (GCP)',
+  'Prometheus',
+  'ElasticSearch',
+  'Kibana',
+  'FluentD',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Docker'
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'prabhu@pdx.edu',
 }
 
 export { header, about, projects, skills, contact }
