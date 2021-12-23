@@ -21,29 +21,21 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Music Creator Economy',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Created a smart contract and web app where musicians can upload their music and earn ETH based on the number of playbacks their music gets.',
+    stack: ['Vyper', 'Python', 'Node.js', 'Ethereum', 'Javascript'],
+    sourceCode: null,
+    livePreview: null,
   },
   {
-    name: 'Project 2',
+    name: 'Reverse Proxy',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+      'A generic reverse proxy service built with Go uses go-routines to serve requests. Added the functionality to specify timeouts and also an in-memory rate limiter.',
+    stack: ['Go', 'Gin'],
+    sourceCode: null,
+    livePreview: null,
+  }
 ]
 
 const skills = [
