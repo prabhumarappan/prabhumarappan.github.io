@@ -21,6 +21,14 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Cryptoning',
+    description:
+      'A simple website to track top 10 crytocurrencies, their price movements and their socials.',
+    stack: ['React.js', 'Netlify', 'Bootstrap'],
+    sourceCode: 'https://github.com/prabhumarappan/cryptoning',
+    livePreview: 'https://vibrant-liskov-fc7f33.netlify.app/',
+  },
+  {
     name: 'Music Creator Economy',
     description:
       'Created a smart contract and web app where musicians can upload their music and earn ETH based on the number of playbacks their music gets.',
