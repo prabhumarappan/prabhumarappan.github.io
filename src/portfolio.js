@@ -64,6 +64,7 @@ const skills = [
   'Flask',
   'RESTful',
   'Vue.js',
+  'React.js',
   'Amazon Web Services (AWS)',
   'Google Cloud Platform (GCP)',
   'Prometheus',
